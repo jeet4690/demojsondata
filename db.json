@@ -1,4 +1,4 @@
-{ "demodata" : [{
+{
             "productId": 1,
             "productName": "ToothBrush",
             "productCode": "TB-001",
@@ -8,16 +8,4 @@
             "starRating": 4.8,
             "imgUrl": "assets/images/toothbrush.png"
 
-        },
-        {
-            "productId": 2,
-            "productName": "ToothPaste",
-            "productCode": "TP-013",
-            "releaseDate": "September 20 2015",
-            "description": "This is a Toothpaste",
-            "price": 155,
-            "starRating": 4.0,
-            "imgUrl": "assets/images/toothpaste.jpg"
-
-        }]
 }
