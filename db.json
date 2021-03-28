@@ -1,4 +1,4 @@
-{
+{ "demodata" : [{
             "id": 1,
             "productName": "ToothBrush",
             "productCode": "TB-001",
@@ -8,4 +8,5 @@
             "starRating": 4.8,
             "imgUrl": "assets/images/toothbrush.png"
 
+}]
 }
