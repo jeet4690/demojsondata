@@ -21,6 +21,17 @@
             "starRating": 4.0,
             "imgUrl": "assets/images/toothpaste.jpg"
 
+        },
+        {
+            "id": 3,
+            "productName": "MouthWash",
+            "productCode": "MW-020",
+            "releaseDate": "December 20 2020",
+            "description": "This is a Mouthwash",
+            "price": 300,
+            "starRating": 3.0,
+            "imgUrl": "assets/images/toothpaste.jpg"
+
         }
   ]
 }
