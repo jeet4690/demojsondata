@@ -1,36 +1,17 @@
-{
-  "productdata": [
-    {
+{ 
+     "todo" :[
+        {
             "id": 1,
-            "productName": "ToothBrush",
-            "productCode": "TB-001",
-            "releaseDate": "March 20 2020",
-            "description": "This is a Toothbrush",
-            "price": 250.19,
-            "starRating": 4.8,
-            "imgUrl": "assets/images/toothbrush.png"
-
+            "task":"Task1"
         },
         {
             "id": 2,
-            "productName": "ToothPaste",
-            "productCode": "TP-013",
-            "releaseDate": "September 20 2015",
-            "description": "This is a Toothpaste",
-            "price": 155,
-            "starRating": 4.0,
-            "imgUrl": "assets/images/toothpaste.jpg"
+            "task":"Task1"
 
         },
         {
             "id": 3,
-            "productName": "MouthWash",
-            "productCode": "MW-020",
-            "releaseDate": "December 20 2020",
-            "description": "This is a Mouthwash",
-            "price": 300,
-            "starRating": 3.0,
-            "imgUrl": "assets/images/toothpaste.jpg"
+            "task":"Task1"
 
         }
   ]
